@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1714622917",
+        "python_version": "3.9.0 | packaged by conda-forge | (default, Nov 26 2020, 07:53:15) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "\\\\?\\C:\\Users\\mobara\\miniforge3\\envs\\mlagentsv20\\Scripts\\mlagents-learn AgentBall5.yaml --run-id=yball23 --resume",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1714622931"
+    },
+    "total": 13.471681199999999,
+    "count": 1,
+    "self": 0.013969199999998239,
+    "children": {
+        "run_training.setup": {
+            "total": 0.14289969999999919,
+            "count": 1,
+            "self": 0.14289969999999919
+        },
+        "TrainerController.start_learning": {
+            "total": 13.314812300000002,
+            "count": 1,
+            "self": 0.0004041000000007955,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 13.3143969,
+                    "count": 1,
+                    "self": 13.3143969
+                },
+                "trainer_threads": {
+                    "total": 1.4999999997655777e-06,
+                    "count": 1,
+                    "self": 1.4999999997655777e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 9.800000000836917e-06,
+                    "count": 1,
+                    "self": 9.800000000836917e-06
+                }
+            }
+        }
+    }
+}

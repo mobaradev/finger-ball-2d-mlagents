@@ -1,0 +1,65 @@
+{
+    "AgentBall": {
+        "checkpoints": [
+            {
+                "steps": 499996,
+                "file_path": "results\\yball27\\AgentBall\\AgentBall-499996.onnx",
+                "reward": null,
+                "creation_time": 1714631221.9736292,
+                "auxillary_file_paths": [
+                    "results\\yball27\\AgentBall\\AgentBall-499996.pt"
+                ]
+            },
+            {
+                "steps": 999999,
+                "file_path": "results\\yball27\\AgentBall\\AgentBall-999999.onnx",
+                "reward": 95.03217821782178,
+                "creation_time": 1714632923.6771774,
+                "auxillary_file_paths": [
+                    "results\\yball27\\AgentBall\\AgentBall-999999.pt"
+                ]
+            },
+            {
+                "steps": 1499995,
+                "file_path": "results\\yball27\\AgentBall\\AgentBall-1499995.onnx",
+                "reward": 95.205,
+                "creation_time": 1714634649.9973934,
+                "auxillary_file_paths": [
+                    "results\\yball27\\AgentBall\\AgentBall-1499995.pt"
+                ]
+            },
+            {
+                "steps": 1999998,
+                "file_path": "results\\yball27\\AgentBall\\AgentBall-1999998.onnx",
+                "reward": 94.20748299319727,
+                "creation_time": 1714636398.1485705,
+                "auxillary_file_paths": [
+                    "results\\yball27\\AgentBall\\AgentBall-1999998.pt"
+                ]
+            },
+            {
+                "steps": 2056618,
+                "file_path": "results\\yball27\\AgentBall\\AgentBall-2056618.onnx",
+                "reward": 95.41525423728814,
+                "creation_time": 1714636595.4044058,
+                "auxillary_file_paths": [
+                    "results\\yball27\\AgentBall\\AgentBall-2056618.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2056618,
+            "file_path": "results\\yball27\\AgentBall.onnx",
+            "reward": 95.41525423728814,
+            "creation_time": 1714636595.4044058,
+            "auxillary_file_paths": [
+                "results\\yball27\\AgentBall\\AgentBall-2056618.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

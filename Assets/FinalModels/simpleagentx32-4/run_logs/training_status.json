@@ -1,0 +1,65 @@
+{
+    "AgentBall": {
+        "checkpoints": [
+            {
+                "steps": 11499976,
+                "file_path": "results\\simpleagentx32-4\\AgentBall\\AgentBall-11499976.onnx",
+                "reward": -43.416666666666664,
+                "creation_time": 1715465958.8154035,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx32-4\\AgentBall\\AgentBall-11499976.pt"
+                ]
+            },
+            {
+                "steps": 11999990,
+                "file_path": "results\\simpleagentx32-4\\AgentBall\\AgentBall-11999990.onnx",
+                "reward": null,
+                "creation_time": 1715467642.6471546,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx32-4\\AgentBall\\AgentBall-11999990.pt"
+                ]
+            },
+            {
+                "steps": 12499970,
+                "file_path": "results\\simpleagentx32-4\\AgentBall\\AgentBall-12499970.onnx",
+                "reward": 13.5,
+                "creation_time": 1715469336.8423047,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx32-4\\AgentBall\\AgentBall-12499970.pt"
+                ]
+            },
+            {
+                "steps": 12999980,
+                "file_path": "results\\simpleagentx32-4\\AgentBall\\AgentBall-12999980.onnx",
+                "reward": -54.25,
+                "creation_time": 1715471025.8301244,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx32-4\\AgentBall\\AgentBall-12999980.pt"
+                ]
+            },
+            {
+                "steps": 13174226,
+                "file_path": "results\\simpleagentx32-4\\AgentBall\\AgentBall-13174226.onnx",
+                "reward": null,
+                "creation_time": 1715471613.9631095,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx32-4\\AgentBall\\AgentBall-13174226.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 13174226,
+            "file_path": "results\\simpleagentx32-4\\AgentBall.onnx",
+            "reward": null,
+            "creation_time": 1715471613.9631095,
+            "auxillary_file_paths": [
+                "results\\simpleagentx32-4\\AgentBall\\AgentBall-13174226.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

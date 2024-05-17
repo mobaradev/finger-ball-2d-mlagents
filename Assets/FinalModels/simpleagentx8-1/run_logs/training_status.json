@@ -1,0 +1,65 @@
+{
+    "AgentBall": {
+        "checkpoints": [
+            {
+                "steps": 4915960,
+                "file_path": "results\\simpleagentx8-1\\AgentBall\\AgentBall-4915960.onnx",
+                "reward": null,
+                "creation_time": 1715487866.717551,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx8-1\\AgentBall\\AgentBall-4915960.pt"
+                ]
+            },
+            {
+                "steps": 4948086,
+                "file_path": "results\\simpleagentx8-1\\AgentBall\\AgentBall-4948086.onnx",
+                "reward": -31.583333333333332,
+                "creation_time": 1715487984.1693838,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx8-1\\AgentBall\\AgentBall-4948086.pt"
+                ]
+            },
+            {
+                "steps": 4999948,
+                "file_path": "results\\simpleagentx8-1\\AgentBall\\AgentBall-4999948.onnx",
+                "reward": -39.25,
+                "creation_time": 1715488364.2558203,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx8-1\\AgentBall\\AgentBall-4999948.pt"
+                ]
+            },
+            {
+                "steps": 5499966,
+                "file_path": "results\\simpleagentx8-1\\AgentBall\\AgentBall-5499966.onnx",
+                "reward": null,
+                "creation_time": 1715490052.003119,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx8-1\\AgentBall\\AgentBall-5499966.pt"
+                ]
+            },
+            {
+                "steps": 5740150,
+                "file_path": "results\\simpleagentx8-1\\AgentBall\\AgentBall-5740150.onnx",
+                "reward": 1.25,
+                "creation_time": 1715490876.9043689,
+                "auxillary_file_paths": [
+                    "results\\simpleagentx8-1\\AgentBall\\AgentBall-5740150.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5740150,
+            "file_path": "results\\simpleagentx8-1\\AgentBall.onnx",
+            "reward": 1.25,
+            "creation_time": 1715490876.9043689,
+            "auxillary_file_paths": [
+                "results\\simpleagentx8-1\\AgentBall\\AgentBall-5740150.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

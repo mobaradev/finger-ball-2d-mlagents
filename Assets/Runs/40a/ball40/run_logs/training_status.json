@@ -1,0 +1,47 @@
+{
+    "AgentBall": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\ball40\\AgentBall\\AgentBall-499999.onnx",
+                "reward": -5.1033333333333335,
+                "creation_time": 1712619987.6707997,
+                "auxillary_file_paths": [
+                    "results\\ball40\\AgentBall\\AgentBall-499999.pt"
+                ]
+            },
+            {
+                "steps": 999999,
+                "file_path": "results\\ball40\\AgentBall\\AgentBall-999999.onnx",
+                "reward": -4.920361247947455,
+                "creation_time": 1712622982.7029347,
+                "auxillary_file_paths": [
+                    "results\\ball40\\AgentBall\\AgentBall-999999.pt"
+                ]
+            },
+            {
+                "steps": 1134801,
+                "file_path": "results\\ball40\\AgentBall\\AgentBall-1134801.onnx",
+                "reward": -7.056179775280899,
+                "creation_time": 1712623814.357508,
+                "auxillary_file_paths": [
+                    "results\\ball40\\AgentBall\\AgentBall-1134801.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1134801,
+            "file_path": "results\\ball40\\AgentBall.onnx",
+            "reward": -7.056179775280899,
+            "creation_time": 1712623814.357508,
+            "auxillary_file_paths": [
+                "results\\ball40\\AgentBall\\AgentBall-1134801.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
